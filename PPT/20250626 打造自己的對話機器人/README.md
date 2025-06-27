@@ -3,11 +3,15 @@
 第一次作業
 -
 1. 挑選三個大語言模型
-2. 利用LM Studio 或是 Colab(修改老師的程式)
-3. 詢問「同一個問題」，透過調整：
-- 人設 System
-- 溫度 Tempture
-- Top-P 值
-- Top-K 值
+2. 利用LM Studio 
+> - [下載 LM Studio](https://lmstudio.ai/) 
+> - [LM Studio教學](https://the-walking-fish.com/p/lmstudio/) 
+3. 或是 Colab
+> - 複製老師的程式到你的雲端硬碟再修改與執行
+4. 詢問「同一個問題」，透過調整：
+> - 人設 System
+> - 溫度 Tempture
+> - Top-P 值
+> - Top-K 值
  
 > 比較這三個大語言模型的回答最深得你心？並告訴我原因？
