@@ -6,7 +6,7 @@
 > 上課時間：自6月26日(四)起，每週四13:20~16:10(共計18小時)
 > 
 > 上課教室：誠信館 H301 教室
-![image](https://github.com/hsuancheyang/AI_Colab/blob/main/image.png)
+![image](/image.png)
 ## 課程規劃
 > 6/26 打造自己的對話機器人-文字生成的奧秘
 >
