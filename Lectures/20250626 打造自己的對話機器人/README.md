@@ -24,7 +24,7 @@
 > - <a href="https://the-walking-fish.com/p/lmstudio/" target="_blank" rel="noopener noreferrer">LM Studio教學</a>
 3. 或是 Colab
 > - 複製 <a href="https://github.com/hsuancheyang/AI_Colab/blob/main/20250626%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B0%8D%E8%A9%B1%E6%A9%9F%E5%99%A8%E4%BA%BA.ipynb">老師的程式</a> 到你的雲端硬碟再修改與執行。
-![image](/images/2025-06-30 09.16.25.png)
+> ![image](/images/2025-06-30 09.16.25.png)
 >> Open in Colab
 4. 詢問「同一個問題」，透過調整：
 > - 人設 System
