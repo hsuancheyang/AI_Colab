@@ -18,7 +18,6 @@
 
 
 ## 第一次作業
----
 1. 挑選三個大語言模型
 2. 利用LM Studio 
 > - <a href="https://lmstudio.ai/" target="_blank" rel="noopener noreferrer">下載 LM Studio</a>
