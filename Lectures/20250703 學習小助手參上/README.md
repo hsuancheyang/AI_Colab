@@ -7,7 +7,7 @@
 
 
 ## 第二週作業
-
+![image](/images/LearningAssistant.png)
 利用 Google NotebookLM 提拱多個文獻來源（至少三個：網頁、Youtube影片、PDF、Word、Excel、PowerPoint...等檔案）。
 
 為你自己生成多種資料重點：
