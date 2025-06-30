@@ -5,6 +5,7 @@
 * 提供`事實`資料給 LLM，將有助於減少`生成式AI的幻覺`。
 > AI「幻覺」（Hallucination）是指人工智慧（AI）模型產生錯誤、虛構或不符合現實的資訊，這些資訊可能看起來合理，但實際上是錯誤的。這種現象主要出現在自然語言處理（NLP）模型中，例如 OpenAI 的 ChatGPT、Google Bard 和 Meta LLaMA等。由於 AI 是透過統計與機率計算來生成答案，而非理解資訊的真實性，因此可能會產生虛假或不準確的結果。白話地說，AI 之所以會「胡說八道」，主要是因為它並不真正理解問題，而是透過數據機率與模式預測來生成答案，這就像是一個非常擅長考試但不理解題目的學生，只是根據過去的考題模式來猜答案。
 
+- [Little Language Lessons](https://labs.google/lll/en) - try it now
 
 ## 第二週作業
 ![image](/images/LearningAssistant.png)
