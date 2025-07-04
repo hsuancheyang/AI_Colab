@@ -22,7 +22,7 @@
 
 ### 開發背景：
 
-- 由 Stanford 博士生 Lvmin Zhang 開發，他同時也是 ControlNet 的主要作者。
+- 由 Stanford 博士生 Lvmin Zhang 開發，他同時也是 [ControlNet](https://github.com/lllyasviel/ControlNet) 的主要作者。
 - Fooocus 受到 Stable Diffusion 與 Midjourney 的設計理念啟發，並強調用戶友善與自動化。
 
 ### 應用場景：
