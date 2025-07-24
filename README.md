@@ -9,7 +9,7 @@
 
 ![回饋問卷](/images/messageImage_1753322152051.jpg)
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2_ruJi57P1AImy6AkLEIHOi1EQaYtxI5EkMOSKF0Tk6mQRA/viewform" target="_new">回饋問卷</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2_ruJi57P1AImy6AkLEIHOi1EQaYtxI5EkMOSKF0Tk6mQRA/viewform" target="_blank">回饋問卷</a>
 
 ![image](/images/image.png)
 ## 課程規劃
